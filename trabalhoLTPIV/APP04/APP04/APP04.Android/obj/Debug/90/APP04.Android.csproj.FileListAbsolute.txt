@@ -1,0 +1,12 @@
+C:\AMANCO\APP04\APP04\APP04.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\AMANCO\APP04\APP04\APP04.Android\obj\Debug\90\build.props
+C:\AMANCO\APP04\APP04\APP04.Android\obj\Debug\90\adb.props
+C:\AMANCO\APP04\APP04\APP04.Android\obj\Debug\90\APP04.Android.csprojAssemblyReference.cache
+C:\AMANCO\APP04\APP04\APP04.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\AMANCO\APP04\APP04\APP04.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\AMANCO - Copia\APP04\APP04\APP04.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\AMANCO - Copia\APP04\APP04\APP04.Android\obj\Debug\90\build.props
+C:\AMANCO - Copia\APP04\APP04\APP04.Android\obj\Debug\90\adb.props
+C:\AMANCO - Copia\APP04\APP04\APP04.Android\obj\Debug\90\APP04.Android.csprojAssemblyReference.cache
+C:\AMANCO - Copia\APP04\APP04\APP04.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\AMANCO - Copia\APP04\APP04\APP04.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp

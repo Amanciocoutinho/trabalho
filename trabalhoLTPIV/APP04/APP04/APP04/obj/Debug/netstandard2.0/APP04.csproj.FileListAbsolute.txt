@@ -1,0 +1,14 @@
+C:\AMANCO\APP04\APP04\APP04\bin\Debug\netstandard2.0\APP04.deps.json
+C:\AMANCO\APP04\APP04\APP04\bin\Debug\netstandard2.0\APP04.dll
+C:\AMANCO\APP04\APP04\APP04\bin\Debug\netstandard2.0\ref\APP04.dll
+C:\AMANCO\APP04\APP04\APP04\bin\Debug\netstandard2.0\APP04.pdb
+C:\AMANCO\APP04\APP04\APP04\obj\Debug\netstandard2.0\APP04.csprojAssemblyReference.cache
+C:\AMANCO\APP04\APP04\APP04\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\AMANCO\APP04\APP04\APP04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\AMANCO\APP04\APP04\APP04\obj\Debug\netstandard2.0\APP04.AssemblyInfoInputs.cache
+C:\AMANCO\APP04\APP04\APP04\obj\Debug\netstandard2.0\APP04.AssemblyInfo.cs
+C:\AMANCO\APP04\APP04\APP04\obj\Debug\netstandard2.0\APP04.csproj.CoreCompileInputs.cache
+C:\AMANCO\APP04\APP04\APP04\obj\Debug\netstandard2.0\XamlC.stamp
+C:\AMANCO\APP04\APP04\APP04\obj\Debug\netstandard2.0\APP04.dll
+C:\AMANCO\APP04\APP04\APP04\obj\Debug\netstandard2.0\ref\APP04.dll
+C:\AMANCO\APP04\APP04\APP04\obj\Debug\netstandard2.0\APP04.pdb
